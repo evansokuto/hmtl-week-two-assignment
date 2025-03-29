@@ -87,8 +87,8 @@
             <input type="radio" id="gender" name="gender" value="female"> female
             <input type="radio" id="gender" name="gender" value="male"> male
             <br><br>
-            <label for="country">country</label>
-            <select name="country" id="country"> 
+            <label for="county">county</label>
+            <select name="county" id="county"> 
                 <option> -- select county --</option>
                 <option value="Kisumu">Kisumu</option>
                 <option value="Siaya">Siaya</option>
